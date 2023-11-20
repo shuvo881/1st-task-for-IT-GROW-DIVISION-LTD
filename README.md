@@ -20,10 +20,12 @@
     Install dependenceis
         - pip install -r requirements.txt
     
-    Open '1st task' folder
+    change directory:
+        - cd 1st\ task                   
         
     Run all Task file
-        - Task-1.ipynb (please import it on Kaggle, then run it or check out my kaggle noteboke, where I worked: [click here](https://www.kaggle.com/code/golammostofas/task-1-creating-a-neural-network)
+        - Task-1.ipynb (please import it on Kaggle, then run it or check out my kaggle noteboke, where I worked: 
+                        https://www.kaggle.com/code/golammostofas/task-1-creating-a-neural-network )
         - python Task-2.py
         - python Task-3.py
         - Task-4.pdf
