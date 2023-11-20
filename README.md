@@ -8,7 +8,8 @@
 
 ## how to run 1st Task:
     Clone this repository
-        -> git clone 
+        - git clone https://github.com/shuvo881/1st-task-for-IT-GROW-DIVISION-LTD
+        
     Create a virual inviroment
         - python3 -m venv venv
         
@@ -22,9 +23,10 @@
     Open '1st task' folder
         
     Run all Task file
-        - python Task-1.py
+        - Task-1.ipynb (please import it on Kaggle, then run it or check out my kaggle noteboke, where I worked: [click here](https://www.kaggle.com/code/golammostofas/task-1-creating-a-neural-network)
         - python Task-2.py
         - python Task-3.py
+        - Task-4.pdf
 
     
     Make postgrsSQL databse:
